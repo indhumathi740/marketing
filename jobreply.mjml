@@ -1,0 +1,65 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Source Sans Pro"
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap"
+    />
+    <mj-attributes>
+      <mj-class name="footer" font-family="Source Sans Pro, Arial" color="#fff" font-size="12px" />
+      <mj-class name="text" font-family="Source Sans Pro, Arial" line-height="22px" color="#757575" font-size="16px" />
+      <mj-class name="header" background-color="#f0f0f0" padding="20px 0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <!-- Header Section -->
+    <mj-section mj-class="header">
+      <mj-column>
+        <mj-image width="200px" src="/public/images/infy-logo.svg"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Content Section -->
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="text">Dear {{first_name}},</mj-text>
+        <mj-text mj-class="text">
+          Thank you for applying for the position at Infygain Technologies. We appreciate your interest in joining our team.
+          We have received your application and are currently reviewing it.
+        </mj-text>
+        <mj-text mj-class="text">
+          Please note that due to the high volume of applications we receive, we may not be able to respond immediately. Rest assured, we will reach out to you if your qualifications match our requirements.
+        </mj-text>
+        <mj-text mj-class="text">
+          Should you have any questions in the meantime, please feel free to contact us at  infygaintechnologies@gmail.com.
+        </mj-text>
+        <mj-text mj-class="text">
+          Best regards,<br /> 
+          Infygain Technologies Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Section -->
+    <mj-section background-color="#42403C">
+      <mj-column>
+        <mj-text mj-class="footer" align="center" line-height="18px">
+          Copyright © 2024 Infygain Technologies, All rights reserved.<br />You are receiving this email because you applied for a position at Infygain Technologies.
+        </mj-text>
+        <mj-text mj-class="footer" align="center" line-height="15px">
+          <strong>Our mailing address is:</strong><br />
+          infygaintechnologies<br />
+          Hari complex opp.prozone mall, Sathy Rd, <br>Saravanampatti, Coimbatore, Tamil Nadu 641035.
+        </mj-text>
+        
+        <!-- Social Media Icons -->
+        <mj-social align="center" icon-size="20px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/infygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain-technologies/"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+        
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

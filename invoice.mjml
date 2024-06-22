@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Your Invoice from Infygain Technologies</mj-preview>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato" />
+    <mj-attributes>
+      <mj-all font-family="Lato, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .title { font-size: 24px; color: #1f2024; font-weight: 700; }
+      .copy-text { font-size: 16px; color: #444444; font-weight: 400; line-height: 1.6; }
+      .small-text { font-size: 14px; color: #666666; font-weight: 400; line-height: 1.4; }
+      .invoice-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+      .invoice-table th, .invoice-table td { border: 1px solid #d5d5d5; padding: 10px; text-align: center; }
+      .invoice-table th { background-color: #f2f2f2; }
+      .invoice-table td:first-child { text-align: left; }
+      .invoice-table td:last-child { font-weight: bold; }
+      .total-row { font-weight: bold; }
+      .button { background-color: #1f2024; color: #ffffff; border-radius: 5px; padding: 12px 24px; display: inline-block; text-decoration: none; }
+      .footer-text { font-size: 12px; color: #999999; font-weight: 400; line-height: 1.4; }
+      .footer-text a { color: #999999; text-decoration: none; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color='#edf1f5'>
+    <!-- Logo and Header Section -->
+    <mj-section>
+      <mj-column>
+        <mj-image width="200px" src="https://infygain.com/images/others/logo-alt.svg" alt="Company Logo" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- Invoice Wrapper -->
+    <mj-wrapper border-radius="3px" padding="0" border="1px solid #d5d5d5">
+      <!-- Title Section -->
+      <mj-section background-color="#f9f9f9" border-bottom="1px solid #d5d5d5">
+        <mj-column>
+          <mj-text align="center" css-class="title">Your Invoice from Infygain Technologies</mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <!-- Invoice Content Section -->
+      <mj-section background-color='#ffffff'>
+        <mj-column>
+          <!-- Initial Greeting -->
+          <mj-text align="left" css-class="copy-text" line-height="23px">
+            <p>Hi {{Customer Name}},</p>
+            <p>Here is your invoice for your recent transaction with Infygain Technologies. Please review the details below:</p>
+          </mj-text>
+          
+          <!-- Invoice Details Table -->
+          <mj-table css-class="invoice-table">
+            <tr>
+              <th>Description</th>
+              <th>Quantity</th>
+              <th>Unit Price</th>
+              <th>Total</th>
+            </tr>
+            <tr>
+              <td>Product 1</td>
+              <td>1</td>
+              <td>$10.00</td>
+              <td>$10.00</td>
+            </tr>
+            <tr>
+              <td>Product 2</td>
+              <td>2</td>
+              <td>$20.00</td>
+              <td>$40.00</td>
+            </tr>
+            <tr class="total-row">
+              <td colspan="3" style="text-align:right;">Subtotal</td>
+              <td>$50.00</td>
+            </tr>
+            <tr class="total-row">
+              <td colspan="3" style="text-align:right;">Tax (10%)</td>
+              <td>$5.00</td>
+            </tr>
+            <tr class="total-row">
+              <td colspan="3" style="text-align:right;">Total</td>
+              <td>$55.00</td>
+            </tr>
+          </mj-table>
+          
+          <!-- Download Button -->
+          <mj-text align="center">
+            <a href="https://example.com/path/to/downloadable-invoice.pdf" class="button-link">
+              <mj-button class="button" font-family="Lato, Arial, sans-serif">Download Invoice Details</mj-button>
+            </a>
+          </mj-text>
+          
+          <!-- Payment Details -->
+          <mj-text align="left" css-class="copy-text" line-height="23px">
+            <p>Please make payment by [Due Date] to the following account:</p>
+            <p>Account Name: [Account Name]<br />Account Number: [Account Number]<br />Bank: [Bank Name]<br />SWIFT/BIC: [SWIFT/BIC]</p>
+            <p>If you have any questions or concerns regarding your invoice, please contact us.</p>
+            <p>Thank you for your business!</p>
+            <p>Best regards,<br />The Infygain Technologies Team</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+    <!-- Footer Section -->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" css-class="footer-text">
+          <p>You’re receiving this email because you made a purchase with Infygain Technologies. If you didn't make this purchase, please <a href="https://example.com/contact" style="color: #999999; text-decoration: none;">contact us</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

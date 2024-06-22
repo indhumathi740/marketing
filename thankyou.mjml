@@ -1,0 +1,95 @@
+<mjml>
+  <mj-head>
+   <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" />
+    <mj-style>
+      .header-link a { color: black !important; text-decoration: none !important; }
+      .footer-link a { color: white !important; text-decoration: none !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f0f0" font-size="13px">
+    <!-- Header Section with Logo -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column width="100%">
+        <mj-image src="/public/images/infy-logo.svg" alt="Infygain Technologies Logo" align="left" width="200px"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Main Content Section -->
+    <mj-section background-color="white" padding="0">
+      <mj-column width="100%">
+        <!-- Thank You Header -->
+        <mj-text align="left" color="black" font-size="45px" font-weight="bold" font-family="Source Sans Pro, Arial" padding="30px 25px">Thank You!</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Message Section -->
+    <mj-section background-color="white" padding="20px 25px">
+      <mj-column width="100%">
+        <!-- Greeting and Thank You Message -->
+        <mj-text align="left" color="black" font-size="22px" font-family="Source Sans Pro, Arial" padding="0" line-height="25px">
+          <span style="color:black">Hi {{FirstName}},</span><br /><br />
+          Thank you for reaching out to Infygain Technologies!
+        </mj-text>
+        
+        <!-- Additional Message with Icons -->
+        <mj-text align="left" color="black" font-size="15px" line-height="22px" font-family="Source Sans Pro, Arial" padding="20px 0 0 0">
+          We appreciate you contacting us. Our team will get back to you shortly. In the meantime, here's how you can stay connected:
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="left">
+            <mj-social-element name="facebook" href="https://www.facebook.com/YourPage" background-color="#3b5998"></mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/YourPage" background-color="#55acee"></mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/YourPage" background-color="#e4405f"></mj-social-element>
+          </mj-social>
+          <mj-text>
+            For inquiries or urgent matters, feel free to contact us via email at <a href="infygaintechnologies@gmail.com" style="color: black; text-decoration: none;">infygaintechnologies@gmail.com</a>.
+          </mj-text>
+        </mj-text>
+        
+        <!-- Alternative Call to Action (Follow Us on Social Media) -->
+        <mj-text align="left" color="black" font-size="15px" font-family="Source Sans Pro, Arial" padding="20px 0 0 0" line-height="18px" >
+          Already familiar with our website? Follow us on social media for the latest updates and news:
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="left">
+            <mj-social-element name="facebook" href="https://www.facebook.com/YourPage" background-color="#3b5998"></mj-social-element>
+            <mj-social-element name="twitter" href="https://twitter.com/YourPage" background-color="#55acee"></mj-social-element>
+            <mj-social-element name="instagram" href="https://www.instagram.com/YourPage" background-color="#e4405f"></mj-social-element>
+          </mj-social>
+        </mj-text>
+        
+        <!-- Closing Message -->
+        <mj-text align="left" color="black" font-size="15px" font-family="Source Sans Pro, Arial" padding="20px 0 0 0" line-height="18px">
+          Thanks,<br />
+          The Infygain Technologies Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- Footer Section -->
+<mj-section background-color="#42403C" padding="20px 0">
+  <mj-column width="100%">
+    <!-- Contact Information -->
+    <mj-text align="center" line-height="20px" color="white" font-size="13px" font-family="Arial, sans-serif" padding="0 10px" css-class="footer-link">
+      <strong>Contact Support:</strong><br>
+      Email: <a href="mailto:infygaintechnologies@gmail.com" style="color: white; text-decoration: none;">infygaintechnologies@gmail.com</a><br>
+      Alternative Email: <a href="mailto:support-alt@infygain.com" style="color: white; text-decoration: none;">hr@infygain.com</a><br>
+      Support Line: +91 9952141444<br>
+      Sales Line: +91 9087724444
+    </mj-text>
+    
+    <!-- Social Media Icons -->
+    <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="0px 0">
+      <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+    </mj-social>
+    
+    <!-- Copyright Text -->
+    <mj-text align="center" color="white" font-size="12px" font-family="Arial, sans-serif" padding="0px 0">
+      &copy; 2024 Infygain Technologies. All rights reserved.
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+
+
+  </mj-body>
+</mjml>

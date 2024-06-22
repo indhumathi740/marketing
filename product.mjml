@@ -1,0 +1,80 @@
+<mjml>
+  <mj-body background-color="#FFFFFF">
+    <mj-container background-color="#FFFFFF">
+      <!-- Header Section with Logo -->
+      <mj-section padding-top="20px" padding-bottom="0">
+        <mj-column background-color="#444555" padding="0">
+          <mj-image width="213px" src="https://infygain.com/images/others/logo-alt.svg" alt="Infygain Technologies" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Welcome Message Section -->
+      <mj-section background-color="#F4F6F8" padding-top="20px" padding-bottom="0">
+        <mj-column>
+          <mj-text font-size="24px" color="#444555" align="center" padding="0 20px">Welcome to Infygain Technologies!</mj-text>
+          <mj-text font-size="20px" color="#444555" align="center" padding="20px 20px">Discover Innovative CCTV Solutions Designed to Protect Your World.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Feature Image Section -->
+      <mj-section background-color="#F4F6F8" padding-bottom="0">
+        <mj-column>
+          <mj-image src="https://mm.media-mccoymart.com/post/wp-content/uploads/2021/10/IP-Camera.jpg" alt="IP Camera" width="600px" />
+        </mj-column>
+      </mj-section>
+
+      <!-- More Images Section -->
+      <mj-section background-color="#F4F6F8" padding-bottom="0">
+        <mj-column>
+          <mj-image src="https://mm.media-mccoymart.com/post/wp-content/uploads/2021/10/Dome-Camera.jpg" alt="Dome Camera" width="600px" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Text Section -->
+      <mj-section background-color="#F4F6F8" padding-bottom="20px">
+        <mj-column>
+          <mj-text font-size="16px" color="#444555" align="center">Explore our state-of-the-art CCTV solutions tailored to meet your security needs. Whether for your home or business, trust Infygain Technologies to deliver reliable surveillance technology.</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Call to Action Section -->
+      <mj-section background-color="#F4F6F8" padding="10px 0">
+        <mj-column>
+          <mj-text align="center" color="#37302d">
+            <table cellpadding="0" cellspacing="0" style="width:100%;text-align: left;">
+              <tr>
+                <td class="content-entity">
+                  <center>
+                                             
+                    <a href="https://infygain.com/services/cctv" style="background-color:#29b6f6; color:#FFFFFF; padding:10px 20px; text-decoration:none; border-radius:5px; display: inline-block;">Explore Our Advanced CCTV Systems</a>
+                  </center>
+                </td>
+              </tr>
+              <tr>
+                <td class="content-entity" style="padding-top: 20px;">
+                  <center>
+                    <mj-text font-size="18px" color="#444555">Ready to Secure Your Space?</mj-text>
+                    <mj-text font-size="16px" color="#444555" align="center" padding="10px 20px">Contact us today to get a quote or schedule a consultation with our experts.</mj-text>
+                    <a href="tel:+919952141444" style="color: #29b6f6; text-decoration: none; display: inline-block;">Call Us: +91 9952141444</a><br>
+                    <a href="mailto:sales@infygain.com" style="color: #29b6f6; text-decoration: none; display: inline-block;">Email Us: sales@infygain.com</a><br>
+                    <a href="https://infygain.com/contact" style="background-color:#29b6f6; color:#FFFFFF; padding:10px 20px; text-decoration:none; border-radius:5px; display: inline-block; margin-top: 10px;">Contact Us</a>
+                  </center>
+                </td>
+              </tr>
+            </table>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer -->
+      <mj-section background-color="#F4F6F8" padding="10px 0">
+        <mj-column>
+          <mj-text font-size="14px" color="#9B9B9B" align="center">
+            Copyright © 2024 infygain.com<br>
+            Made by Infygain Technologies
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
