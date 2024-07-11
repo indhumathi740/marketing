@@ -1,0 +1,138 @@
+<mjml>
+  <mj-head>
+    <mj-title>We want your feedback!</mj-title>
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" />
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" font-size="16px" color="#000000" />
+      <mj-class name="header" font-size="20px" font-weight="bold" />
+      <mj-class name="subheader" font-size="18px" />
+      <mj-class name="body" font-size="16px" />
+      <mj-class name="button" background-color="#ffffff" color="#000000" font-size="16px" font-weight="bold" text-align="center" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .rate-button {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+        margin: 20px;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="black">
+    <!-- Header Section with Logo -->
+      <mj-section padding-top="20px" padding-bottom="0"  background-color="rgba(135, 206, 235, 1)">
+        <mj-column padding="0">
+          <mj-image width="203px" src="/public/images/infy-logo.svg" alt="Infygain Technologies" />
+        </mj-column>
+      </mj-section>
+ <!-- Header Section content -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text align="center" mj-class="header" font-family="Helvetica" color="#333333" align="center" font-size="30px" font-weight="500" >We want your feedback!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-image src="/public/images/feedback2.jpg" alt="Feedback image" width="400px"  />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-text align="center" color="orange" font-weight="600" font-size="22px" >
+          DO YOU HAVE SEVERAL MINUTES?
+        </mj-text>
+        <mj-text mj-class="body" font-size="15px" align="center" font-family="poppins" color="gray" line-height="25px">
+        Your feedback matters! Click the faces below to share your experience.Your input helps us improve.
+        </mj-text>
+        <mj-text mj-class="body" font-size="15px" align="center" font-family="poppins" color="black" font-weight="600">
+       Like Our Product ?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-section background-color="white" >
+  <mj-column >
+        <mj-image src="/public/images/sads.png" alt="Bad" width="70px" />
+        <mj-button href="#" background-color="#F45E43" font-size="15px" font-weight="300" color="#ffffff" border-radius="20px" width="80px" >
+          Bad
+        </mj-button>
+      </mj-column>
+
+  <mj-column>
+    <mj-image src="/public/images/okay.png" alt="Okay" width="70px"/>
+    <mj-button href="#" background-color="#F45E43" font-size="15px" font-weight="300" color="#ffffff" border-radius="20px"  width="90px">
+         Okay
+        </mj-button>
+  </mj-column>
+
+  <mj-column>
+    <mj-image src="/public/images/happiness.png" alt="Great" width="70px"/>
+    <mj-button href="#" background-color="#F45E43" font-size="15px" font-weight="300" color="#ffffff" border-radius="20px"  width="90px">
+        Good
+        </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="white">
+ <mj-column>
+  <mj-text align="center" color="orange" font-weight="700" font-size="20px" >
+        Thanks For Your Time!
+        </mj-text>
+         </mj-column>
+</mj-section>
+
+  <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-color="#E0E0E0" />
+        <mj-text font-size="20px" font-weight="bold" align="center">Rate your experience ? click here ! </mj-text>
+        <mj-button background-color="#FFA41C" color="white" href="https://www.google.com/maps/place/Infygain+Technologies+-+Best+computer,+laptop,+networking,+web+design+and+development+Coimbatore/@11.0550367,76.9926735,17z/data=!4m8!3m7!1s0x3ba8fb6fed9cc5d5:0xdf0b5bd38b8e7b7c!8m2!3d11.0550367!4d76.9952484!9m1!1b1!16s%2Fg%2F11rsctbh1l?entry=ttu" align="center" width="200px">
+              <mj-text align="center" font-size="5px" >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+        </mj-text>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="rgba(135, 206, 235, 1)">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/i/flow/login?redirect_after_login=%2Finfygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://in.linkedin.com/company/infygain-technologies"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+         <!-- Copyright Text -->
+        <mj-text align="center" color="black" font-size="14px" font-family="Arial, sans-serif" padding="0px 0">
+      &copy; 2024 Infygain Technologies. All rights reserved.</mj-text>
+      </mj-section>
+  </mj-body>
+</mjml>
+
+
+
+ 
+
+
+
+
+
+
+
+
