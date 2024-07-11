@@ -1,0 +1,36 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" />
+  </mj-head>
+  <mj-body   font-family="Source Sans Pro, Arial" >
+
+
+      <mj-section background-color ="linear-gradient(45deg,#ffcccc,#ccffcc)">
+        <mj-column >
+          <mj-image src="/public/images/infy-logo.svg" alt="Infygain Technologies Logo" align="center"    width="200px" padding-top="30px " ></mj-image>
+        </mj-column>
+      </mj-section >
+      
+      <mj-section padding="40px" background-color="linear-gradient(45deg, #ffcccc, #ccffcc)" padding-top="0"  css-class="card">
+        <mj-column>
+          <mj-text font-family="Source Sans Pro, Arial" align="center" font-size="35px" font-weight="bold" color="#FF7F3E">Your feedback and review </mj-text>
+          <mj-text font-family="Source Sans Pro, Arial" align="center" font-size="35px" font-weight="bold" color="#2A629A">important to us!</mj-text>
+
+          <mj-image src="/public/images/user.png" border-radius="50%" alt="Infygain Technologies Logo" align="center" width="100px"></mj-image>
+          <mj-text  align="center" font-size="33px" color="#0D9276" padding="10px 0 0 0">Sree Ram</mj-text>
+          <mj-text align="center" font-size="13px" font-weight="500" color="black">Positive Feedback</mj-text>
+          <mj-text css-class="rating-stars" align="center" font-size="24px" color="#a67c00">&#9733;&#9733;&#9733;&#9733;&#9733;</mj-text>
+          <mj-text align="center" font-size="18px" color="#2A629A" line-height="30px" font-weight="400" padding="20px 50px">
+           Infygain technologies has exceeded my expectations in every way. Their customer service is top-notch, their products are high quality, and their software services are excellent.
+          </mj-text>
+
+        <mj-button href="https://infygain.com" background-color="#2A629A" color="#ffffff" font-size="15px" font-weight="400">
+         Our Website
+        </mj-button>
+      
+        </mj-column>
+        
+      </mj-section>
+
+  </mj-body>
+</mjml>

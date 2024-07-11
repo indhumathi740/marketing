@@ -1,0 +1,119 @@
+<mjml>
+  <mj-head>
+  </mj-head>
+
+  <mj-body background-color="gray">
+  <mj-section background-color="black">
+  <mj-column border-bottom="1px dotted gray" >
+  <mj-image src="/public/images/logo-alt-white.svg" alt="Infygain Technologies Logo" align="center" width="200px" padding-top="15px" ></mj-image>
+  </mj-column>
+  </mj-section>
+
+
+    <mj-section background-color="black">
+      <mj-column background-color="black">
+        <mj-text color="#F38200" align="center" font-size="30px" font-weight="600" font-family="Source Sans Pro">Thank You for Order</mj-text>
+        <mj-text align="center" font-size="15px" line-height="30px" color="#FFFFF7" font-weight="200">Your oder's in. We'are working to get it packed up and out the door expect a dispatch cofirmation email soon.</mj-text>
+        <mj-button color="black" background-color="#ffbf00" font-size="14px" font-weight="500" border-radius="20px">Track Your Order</mj-button>
+        <mj-text color="#fff" align="center"  color="#fff" font-size="16px" font-weight="400">Please allow 24 hours to track your order</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="black" padding="30px">
+      <mj-column >
+        <mj-text color="#ffbf00" font-family="Source Sans Pro" font-size="20px" font-weight="thin">Summary</mj-text>
+        <mj-text color="orange" font-size="16px" font-weight="400">Ready to Ship</mj-text>
+        <mj-text color="#fff" font-size="16px" font-weight="400">#2222 * june 30,2024</mj-text>
+        <mj-text color="#fff" font-size="16px" font-weight="bold">$123.00</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#ffbf00" font-family="Source Sans Pro" font-size="20px" font-weight="thin">Shipping Address</mj-text>
+        <mj-text color="#fff" font-size="17px" font-weight="bold">Buyer Name</mj-text>
+        <mj-text color="#fff" font-size="16px" line-height="25px">4/744, <br /> Dam Nagar, <br /> Coimbatore-641603.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column >
+        <mj-text color="black" align="center" font-size="30px" font-weight="600" font-family="Source Sans Pro">Your Item in This Order</mj-text>
+        <mj-text color="gray" align="center" font-size="15px" font-weight="400">Order number: #1234</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column background-color="#fbedd0" border-radius="15px" padding="10px 0" >
+        <mj-image src="/public/images/laptop.png" alt="blog image" align="center" width="180px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="black" align="left" font-size="17px" font-weight="bold">Acer Laptop</mj-text>
+        <mj-text color="black" align="left" font-size="14px" font-weight="400" line-height="22px">Aspire Lite Ryzen 3/8 GB/512 GB SSD</mj-text>
+        <mj-text css-class="rating-stars" align="left" font-size="24px" padding-top="0" color="#a67c00">&#9733;&#9733;&#9733;&#9733;&#9733;</mj-text>
+        <mj-text color="green" align="left" font-size="20px" font-weight="500">₹68,212</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column background-color="#fbedd0" border-radius="15px" padding="10px 0">
+        <mj-image src="/public/images/monitor.png" alt="blog image"  align="center" width="180px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text color="black" align="left" font-size="17px" font-weight="bold">Acer monitor</mj-text>
+        <mj-text color="black" align="left" font-size="14px" font-weight="400" line-height="22px">Aspire Lite Ryzen 3/8 GB/512 GB SSD</mj-text>
+        <mj-text css-class="rating-stars" align="left" font-size="24px" padding-top="0" color="#a67c00">&#9733;&#9733;&#9733;&#9733;&#9733;</mj-text>
+        <mj-text color="green" align="left" font-size="20px" font-weight="500">₹6,412</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px" padding-bottom="0">
+      <mj-column >
+        <mj-text color="black" align="left" font-size="16px" font-weight="400">Subtotel</mj-text>
+        <mj-text color="black" align="left" font-size="16px" font-weight="400">20% OFF</mj-text>
+        <mj-text color="black" align="left" font-size="16px" font-weight="400">Standart Delivery</mj-text>
+      </mj-column>
+      <mj-column>
+      <mj-text color="black" align="right" font-size="16px" font-weight="500">₹74,624</mj-text>
+        <mj-text color="green" align="right" font-size="16px" font-weight="500">- ₹1492</mj-text>
+        <mj-text color="black" align="right" font-size="16px" font-weight="500">₹100</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-top="0" padding-bottom="0px">
+      <mj-column>
+        <mj-divider border-color="gray" border-width="1px" border-style="solid "  width="100%" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px" padding-top="0">
+      <mj-column>
+        <mj-text color="black" align="left" font-size="19px" font-weight="500">Total:</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="black" align="right" font-size="19px" font-weight="500">₹73,231</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="black" padding="20px 0">
+      <!-- Social Media Icons -->
+      <mj-column>
+      <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="0px 0">
+        <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+      </mj-social>
+      </mj-column>
+
+      <mj-column width="100%">
+        <!-- Address Information -->
+        <mj-text align="center" line-height="20px" color="#fff" font-size="13px" font-family="Arial, sans-serif" padding="10px 10px">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035.
+        </mj-text>
+        <mj-divider border-color="gray" border-width="1px" border-style="dashed" padding="20px 0" width="100%" />
+     <!-- Copyright Text -->
+        <mj-text align="center" color="#fff" font-size="12px" font-family="Arial, sans-serif" padding="0px 0">
+          &copy; 2024 Infygain Technologies. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

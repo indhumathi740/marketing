@@ -1,0 +1,78 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#d6d6d6">
+      <!-- <mj-column>
+        <mj-text font-family="Source Sans Pro, Arial" align="center" font-size="25px" font-weight="400" color="black">BLOG </mj-text>
+      </mj-column> -->
+       <mj-column >
+          <mj-image src="/public/images/infy-logo.svg" alt="Infygain Technologies Logo" align="center"    width="150px" padding-top="30px " ></mj-image>
+        </mj-column>
+      </mj-section >
+    </mj-section>
+
+    <mj-section background-color="#d6d6d6">
+      <mj-column>
+        <mj-image src="/public/images/blog-image.jpg" alt="blog image" align="left" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="25px" font-weight="600" line-height="40px" color="black">E-commerce Web Design Company in Coimbatore </mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="15px" line-height="30px" color="gray">In the digital age, having a robust online presence is crucial for the success of any business. E-commerce has revolutionized the way people shop, making it imperative for businesses to have a well-designed and functional website. If you're looking for an e-commerce web design company in Coimbatore, look no further than Infygain Technologies. Our expertise in creating visually appealing, user-friendly, and high-performing e-commerce websites can help elevate your business to new heights.</mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="14px" font-weight="400" line-height="25px" color="black">Author: xxxxxx <br /> Published: 4 mins </mj-text>
+        <mj-button href="https://infygain.com/blogs/228/e-commerce-web-design-company-in-coimbatore" background-color="#3b5998" color="#ffffff" font-size="13px" align="left" font-weight="200">Learn More</mj-button>
+        <mj-divider border-color="gray" border-width="1px" border-style="dashed" padding="20px 0" width="100%" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="/public/images/sub-blog-image.jpg" alt="" border-radius="10px" align="left" height="200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="17px" font-weight="600" line-height="25px" color="black">Best Broad Band Service in Coimbatore</mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="12px" line-height="20px" color="gray">In today’s fast-paced digital world, having a reliable broadband service is no longer a luxury but a necessity. Whether for personal use, remote work, online education, or entertainment, a stable and high-speed internet connection is crucial. </mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="12px" font-weight="400" line-height="20px" color="black">Author: xxxxxx <br /> Published: 4 mins </mj-text>
+        <mj-button href="https://infygain.com/blogs/233/best-broad-band-service-in-coimbatore" background-color="#3b5998" color="#ffffff" font-size="13px" align="left" font-weight="200">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="/public/images/subb-blog-image.jpg" alt="" border-radius="10px" align="left" height="200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="17px" font-weight="600" line-height="25px" color="black">Hikvision CCTV Camera Dealers in Coimbatore</mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="12px" line-height="20px" color="gray">In an age where security is paramount, having a reliable surveillance system is crucial for both residential and commercial properties. Hikvision, a globally recognized leader in video surveillance products and solutions, offers a range of high-quality CCTV cameras that cater to various security needs.</mj-text>
+        <mj-text font-family="Source Sans Pro, Arial" align="left" font-size="12px" font-weight="400" line-height="20px" color="black">Author: xxxxxx <br /> Published: 4 mins </mj-text>
+        <mj-button href="https://infygain.com/blogs/231/hikvision-cctv-camera-dealers-in-coimbatore" background-color="#3b5998" color="#ffffff" font-size="13px" align="left" font-weight="200">Learn More</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d6d6d6" padding="20px 0">
+      <!-- Social Media Icons -->
+      <mj-column>
+      <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="0px 0">
+        <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+      </mj-social>
+      </mj-column>
+
+      <mj-column width="100%">
+        <!-- Address Information -->
+        <mj-text align="center" line-height="20px" color="black" font-size="13px" font-family="Arial, sans-serif" padding="10px 10px">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035.
+        </mj-text>
+        <mj-divider border-color="gray" border-width="1px" border-style="dashed" padding="20px 0" width="100%" />
+     <!-- Copyright Text -->
+        <mj-text align="center" color="black" font-size="12px" font-family="Arial, sans-serif" padding="0px 0">
+          &copy; 2024 Infygain Technologies. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

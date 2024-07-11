@@ -1,0 +1,38 @@
+<mjml>
+  <mj-body>
+      <mj-section background-url="public\images\welcome-banner.jpg" background-size="cover" padding="5px"  >
+        <mj-column>
+          <mj-image src="/public/images/logo-alt-white.svg" alt="Infygain Technologies Logo" align="left" width="203px"  padding-top="30px " height="100px"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="white" padding-top="100px"  >
+        <mj-column>
+          <mj-text font-size="20px" color="orange" align="center" font-weight="500">Welcome To</mj-text>
+          <mj-text font-size="29px" color="black" align="center" font-weight="500">Infygain Technologies !</mj-text>
+          <mj-text font-size="17px" color="#597445" align="center" line-height="30px" padding="20px 40px">we offer top-tier IT services catered to businesses. Renowned for excellence, we're among the city's best Computer Service providers. Our primary objective is to provide top-tier doorstep services, ensuring consistently good quality. We maintain competitive rates, delivering exceptional value to our clients.</mj-text>
+          <mj-button href="https://infygain.com" background-color="#163480" border-radius="20px" color="white" font-size="14px" font-weight="400" width="300px">
+            Start Exploring
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="white" padding-bottom="100px"  >
+        <mj-column>
+            <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="0px 0">
+      <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+      <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+    </mj-social>
+    
+      </mj-section>
+
+      <mj-section background-color="#163480"  padding="40px 0">
+        <mj-column>
+          <mj-text align="center"  font-size="13px" color="#fff">
+            Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+</mj-body>
+</mjml>

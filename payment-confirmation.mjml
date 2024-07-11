@@ -1,0 +1,64 @@
+<mjml>
+  <mj-head>
+  </mj-head>
+  <mj-body background-color="black">
+    <mj-section background-color="#dce8f3">
+
+      <mj-column background-color="#dce8f3" padding-top="20px" padding-bottom="0">
+        <mj-image src="/public/images/infy-logo.svg" alt="Infygain Technologies Logo" align="left" width="150px" padding-top="15px"></mj-image>
+      </mj-column>
+      
+    </mj-section>
+    <mj-section background-color="#dce8f3" padding="0 0 20px 40px">
+      <mj-column>
+        <mj-text color="#026fe5" font-size="36px" font-weight="350" line-height="50px">Payment </br> Confirmation- </br> Thank You!
+        </mj-text>
+        </mj-column>
+        <mj-column background-color="#dce8f3">
+        <mj-image src="/public/images/lap.png" width="400px"></mj-image>
+      </mj-column>
+       </mj-section>
+       <mj-section  background-color="#dce8f3">
+       <mj-column   padding="0 0 20px 40px">
+<mj-text color="#026fe5" font-size="30px" font-weight="10px" line-height="28px">| </br> |</mj-text>
+       </mj-column>
+       </mj-section>
+    <mj-section background-color="#dce8f3" padding="0 0 20px 40px">
+      <mj-column>
+        <mj-text color="#00356c" font-size="15px" font-weight="500" line-height="20px">Dear Kristin Small,</mj-text>
+        <mj-text color="#00356c" line-height="20px" font-size="14px"> I hope this message finds you well. I wanted to personally thank you for your prompt payment; it has been successfully received and credited to my account.</mj-text>
+        <mj-text color="#00356c" line-height="20px" font-size="14px">Your support and trust in my translation services mean a lot to me, and I'm delighted to continue providing you with high-quality translations for your projects. If you have any upcoming assignments or need assistance with translations, please don't hesitate to reach out. I'm here to help you with all your language needs.
+        </mj-text>
+        <mj-text color="#00356c" line-height="20px" font-size="14px">Once again, thank you for your timely payment and for choosing me. I look forward to our continued collaboration.
+        </mj-text>
+        <mj-text color="#00356c" line-height="20px" font-size="14px">Warm regards,</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#dce8f3" padding="0 100px" padding-bottom="0">
+      <mj-column background-color="white" border-radius="20px 20px 0 0px">
+        <mj-image src="/public/images/email.png" border-radius="50%" align="center" width="25px" padding-bottom="0"> </mj-image>
+        <mj-text font-size="16px" align="center">infy@infygain.com</mj-text>
+
+        <mj-image src="/public/images/mobile.png" border-radius="50%" align="center" width="25px" padding-bottom="0"></mj-image>
+        <mj-text font-size="16px" align="center">+91 9087724444</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#dce8f3" padding="100px" padding-top="0" padding-bottom="20px">
+      <mj-column background-color="white" border-radius="0 0 20px 20px ">
+        <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="10px">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#00356c" padding=" 20px 50px ">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#dce8f3" line-height="25px">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

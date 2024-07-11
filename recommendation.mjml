@@ -1,0 +1,109 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="/public/images/infy-logo.svg" alt="Infygain Technologies Logo" align="center" width="200px" padding-top="30px "></mj-image>
+        <mj-image src="/public/images/printer.jpg" alt="printer" align="center" width="500px" padding-top="30px" border-radius="20px"></mj-image>
+        <mj-text font-size="28px" align="center" padding="10px 60px" line-height="40px" font-family="Roboto, Arial, sans-serif" font-weight="400">Print brilliance into every page with our high-performance printers!</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column background-color="#D3D3D3" border-radius="10px">
+        <mj-image src="/public/images/laptop.png" alt="" align="right" width="150px" border-radius="5px"></mj-image>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-text align="left" font-size="15px" padding-bottom="0px">Laptop</mj-text>
+        <mj-text align="left" font-size="15px" color="gray">INR 52,320</mj-text>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-button href="https://infygain.com/blogs/228/e-commerce-web-design-company-in-coimbatore" border="1px solid #3b5998" background-color="rgba(0,0,0,0)" color="#3b5998" font-size="14px" align="left" font-weight="500">Add to cart</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column background-color="#D3D3D3" border-radius="10px">
+        <mj-image src="/public/images/laptop.png" alt="" align="right" width="150px" border-radius="5px"></mj-image>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-text align="left" font-size="15px" padding-bottom="0px">Laptop</mj-text>
+        <mj-text align="left" font-size="15px" color="gray">INR 52,320</mj-text>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-button href="https://infygain.com/blogs/228/e-commerce-web-design-company-in-coimbatore" border="1px solid #3b5998" background-color="rgba(0,0,0,0)" color="#3b5998" font-size="14px" align="left" font-weight="500" css-class="btn">Add to cart</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding="30px" border-bottom="1px dotted gray">
+      <mj-column background-color="#D3D3D3" border-radius="10px">
+        <mj-image src="/public/images/laptop.png" alt="" align="right" width="150px" border-radius="5px"></mj-image>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-text align="left" font-size="15px" padding-bottom="0px">Laptop</mj-text>
+        <mj-text align="left" font-size="15px" color="gray">INR 52,320</mj-text>
+      </mj-column>
+      <mj-column padding="20px 0">
+        <mj-button href="https://infygain.com/blogs/228/e-commerce-web-design-company-in-coimbatore" border="1px solid #3b5998" background-color="rgba(0,0,0,0)" color="#3b5998" font-size="14px" align="left" font-weight="500" css-class="btn">Add to cart</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column>
+        <mj-text font-size="27px" align="center">recommendations Just for You!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="30px">
+      <mj-column >
+        <mj-image src="/public/images/laptop.png" alt="" align="center" width="150px" border-radius="5px"></mj-image>
+        <mj-text  font-size="16px" align="center"  color="black" font-weight="500">Computer</mj-text>
+        <mj-button  font-size="15px" align="center"  background-color="#fff"  color="gray" font-weight="400" href="https://infygain.com/onlinestore/">Shop now</mj-button>
+      </mj-column>
+      <mj-column >
+        <mj-image src="/public/images/laptop.png" alt="" align="center" width="150px" border-radius="5px"></mj-image>
+        <mj-text  font-size="16px" align="center"  color="black" font-weight="500">Computer</mj-text>
+        <mj-button  font-size="15px" align="center"  background-color="#fff"  color="gray" font-weight="400" href="https://infygain.com/onlinestore/">Shop now</mj-button>
+      </mj-column>
+      <mj-column >
+        <mj-image src="/public/images/laptop.png" alt="" align="center" width="150px" border-radius="5px"></mj-image>
+        <mj-text  font-size="16px" align="center"  color="black" font-weight="500">Computer</mj-text>
+        <mj-button  font-size="15px" align="center"  background-color="#fff"  color="gray" font-weight="400" href="https://infygain.com/onlinestore/">Shop now</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#d6d6d6" padding="20px 0">
+      <!-- Social Media Icons -->
+      <mj-column>
+      <mj-social font-size="18px" icon-size="20px" mode="horizontal" align="center" padding="0px 0">
+        <mj-social-element name="facebook" href="https://www.facebook.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="twitter" href="https://twitter.com/infygain" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="instagram" href="https://www.instagram.com/infygain/" background-color="#3b5998"></mj-social-element>
+        <mj-social-element name="linkedin" href="https://www.linkedin.com/company/infygain/" background-color="#3b5998"></mj-social-element>
+      </mj-social>
+      </mj-column>
+
+      <mj-column width="100%">
+        <!-- Address Information -->
+        <mj-text align="center" line-height="20px" color="black" font-size="13px" font-family="Arial, sans-serif" padding="10px 10px">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035.
+        </mj-text>
+        <mj-divider border-color="gray" border-width="1px" border-style="dashed" padding="20px 0" width="100%" />
+     <!-- Copyright Text -->
+        <mj-text align="center" color="black" font-size="12px" font-family="Arial, sans-serif" padding="0px 0">
+          &copy; 2024 Infygain Technologies. All rights reserved.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+
+
+
+  </mj-body>
+</mjml>
