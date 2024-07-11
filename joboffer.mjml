@@ -1,0 +1,79 @@
+<mjml>
+  <mj-body>
+  <!-- header Section -->
+    <mj-section background-color="#d4aa78" padding="20px">
+      <mj-column>
+        <mj-image src="/public/images/logo-alt-white.svg" alt="Image" width="180px"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding="20px">
+      <mj-column>
+        <mj-image src="/public/images/joboffer.jpg" alt="Image" width="350px"></mj-image>
+      </mj-column>
+    </mj-section>
+<!--  main content Section -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text font-size="15px" line-height="20px" align="left" font-weight="500" color="#333333">
+          Dear [Candidate Name],
+        </mj-text>
+        <mj-text line-height="20px">
+          We are pleased to offer you the position of [Position]. You shall be based at [Position] with [Company]. You are required to join work on or before [Date].
+        </mj-text>
+        <mj-text line-height="20px">
+          We are pleased to extend the appointment letter to you. Please accept this offer by within 48 hours of receiving this email, so that we can take the necessary subsequent steps.
+        </mj-text>
+        <mj-text line-height="20px">
+          This offer is contingent upon the satisfactory completion of background investigations including employment history and personal references. In case of any clarification, kindly reach out to your recruiter.
+        </mj-text>
+        <mj-text line-height="19px" font-weight="600">
+          We welcome you onboard and look forward to working with you to take this great workplace to even greater heights. 🙌🏽 🚀
+        </mj-text>
+        <mj-text line-height="20px" align="center" padding-top="20px">
+          To view and accept the offer,
+        </mj-text>
+        <mj-button href="https://infygain.com/career" align="center"   background-color="rgb(194,134,62)" font-size="13px" >
+          Click Here
+        </mj-button>
+        <mj-text>
+          Best Regards,
+          <br />
+          HR Team
+          <br />
+          [Infygain Technologies]
+        </mj-text>
+        </mj-column>
+    </mj-section>
+<!--  footer Section -->
+        <mj-section background-color="#d4aa78">
+        <mj-column>
+        <mj-text font-size="13px" color="black" align="center" line-height="20px">
+          ⓒ2024 Infygain Technologies, Inc.
+          <br />
+          Need assistance? Contact your recruiter.
+        </mj-text>
+          </mj-column>
+    </mj-section>
+
+        <mj-section background-color="white" padding="0">
+        <mj-column>
+        <mj-text font-size="12px" color="#888888"   align="left">
+          <a href="http://example.com/unsubscribe" style="color:#888888; text-decoration:;" align="right">Unsubscribe</a>
+        </mj-text>
+        </mj-column>
+        <mj-column>
+        <mj-text font-size="12px" color="#888888"   align="right">
+          <a href="http://example.com/unsubscribe" style="color:#888888; text-decoration:;" align="right">⚡by Infygain</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
+
+
+
+
+
+

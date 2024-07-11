@@ -1,0 +1,86 @@
+<mjml>
+  <mj-body background-color="#f0f0f0">
+  <!-- welcome  Section  -->
+    <mj-section padding="20px 0">
+      <mj-column>
+        <mj-text font-size="35px" font-family="Helvetica" color="#333333" align="center">
+          Hi! Welcome
+        </mj-text>
+        <mj-text font-size="18px" font-family="Helvetica" color="#555567" align="center" padding="10px 0" >
+          "This Could be the Start of Something Awesome"
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- Header Section with Logo -->
+    <mj-section background-color="#E6E6FA" padding="20px">
+      <mj-column>
+        <mj-image src="/public/images/infy-logo.svg" alt="Image" width="200px"></mj-image>
+        <mj-image src="/public/images/sub-image.png" alt="Image" width="400px"></mj-image>      
+        <mj-text font-size="18px" font-family="Helvetica" color="#333333" align="center" padding="20px 0">
+          You Are Almost Done, Please Confirm Your Email
+        </mj-text>
+        <mj-button background-color="#DB7093" color="#ffffff" font-family="Helvetica" font-size="16px" border-radius="9px" href="https://example.com">
+          SUBSCRIBE NOW
+        </mj-button>
+        <mj-text font-size="14px" font-family="Helvetica" color="#555555" padding="20px 0" align="center">
+        Thank you for subscribing to Infygain Technologies! We're thrilled to have you on board.Get ready to stay ahead with the latest updates, insights, and innovations in the world of technology and business solutions.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- Main Content Section -->
+     <mj-section background-color="#f0f0f0" padding="20px 0">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="25px" font-weight="bold" color="#333333" font-family="Helvetica">
+          New Arrivals, You May Like
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- IT WEB ISP Content Section -->
+    <mj-section background-color="#E6E6FA" padding="20px">
+      <mj-column width="33.33%">
+        <mj-image src="/public/images/it-sup.jpg" alt="IT Support" width="220px" height="120px" />
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#333">
+          IT SUPPORT
+        </mj-text>
+      </mj-column>
+
+      <mj-column width="33.33%">
+        <mj-image src="/public/images/website.jpg" alt="Web Services" width="220px" height="120px" />
+        <mj-text align="center" font-size="16px" font-weight="bold" color="#333">
+          WEB SERVICES
+        </mj-text>
+      </mj-column>
+      
+      <mj-column width="33.33%">
+        <mj-image src="/public/images/isp-ser.jpg" alt="ISP Services" width="220px" height="120px" />
+        <mj-text align="center" font-size="16px" font-weight="600" color="#333">
+          ISP SERVICES
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <!-- (Social Media section ) -->
+    <mj-section background-color="#E6E6FA" padding="20px">
+      <mj-column>
+        <mj-social font-family="Helvetica" align="center" font-size="15px" icon-size="26px" mode="horizontal" padding="10px 0">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/i/flow/login?redirect_after_login=%2Finfygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://in.linkedin.com/company/infygain-technologies"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+     <!-- ( address section ) -->
+    <mj-section  background-color="#f0f0f0" padding="20px 0">
+      <mj-column>
+        <mj-text font-size="13px" font-family="Helvetica" color="#555555" align="center" font-weight="500">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+

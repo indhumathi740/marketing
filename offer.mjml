@@ -1,0 +1,128 @@
+<mjml>
+  <mj-body>
+ <!-- Header Section -->
+    <mj-section background-color="#03172f" padding="30px 0">
+      <mj-column >
+        <mj-image src="/public/images/logo-alt-white.svg" alt="Image" width="120px"></mj-image>
+        <mj-image src="/public/images/img1.png" alt="Image" width="220px"></mj-image>
+        <mj-text font-size="20px" font-weight="300" color="rgba(127, 127, 127, 0.9)" align="center" padding="25px">
+          New Year, New You, New Savings! <br />Get the best offer from Infygain Technologies.
+        </mj-text>
+        <mj-button background-color="#d7b030" color="#fff" href="https://infygain.com/onlinestore/" align="center" font-size="14px" border-radius="5px">
+          Order now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+<!-- Main Content Section -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column>
+        <mj-text font-size="25px" font-family="Helvetica" font-weight="bold" color="#03172f" align="center">
+          Explore New Tracks
+        </mj-text>
+        <mj-text color="#d7b030" font-size="17px" font-weight="500" align="center">
+          Enjoy a Complimentary Offer at Infygain Technologies !!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- laptop offer Section -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column>
+        <mj-image src="/public/images/lap.jpg" alt="IP Camera" width="400px" border-radius="8px" />
+        <mj-text font-size="20px" font-family="Helvetica" font-weight="bold" align="center">
+          Laptop
+        </mj-text>
+         <mj-text align="center" font-size="5px">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+        </mj-text>
+              <mj-text font-size="19px" color="gray" font-family="Arial, sans-serif" align="center" font-weight="500">₹31,999 <del>M.R.P: ₹52,990</del> Discount: (40% off)<br /></mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- camera offer Section -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column>
+        <mj-image src="/public/images/cam.jpeg" alt="IP Camera" width="400px" border-radius="8px" />
+        <mj-text font-size="20px" font-family="Helvetica" font-weight="bold" align="center">
+          Security Camera
+        </mj-text>
+          <mj-text align="center" font-size="5px" >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+        </mj-text>
+    <mj-text font-size="19px" color="gray" font-family="Arial, sans-serif" align="center" font-weight="500">₹31,999 <del>M.R.P: ₹52,990</del> Discount: (40% off)<br /></mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- printer offer Section -->
+    <mj-section background-color="white" padding="20px 0">
+      <mj-column>
+        <mj-image src="/public/images/printer.jpg" alt="IP Camera" width="400px" border-radius="8px" />
+        <mj-text font-size="20px" font-family="Helvetica" font-weight="bold" align="center">
+          Printer
+        </mj-text>
+         <mj-text align="center" font-size="5px" >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="#d7b030" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 .587l3.668 7.568L24 9.423l-6 6.175 1.42 8.28L12 18.897l-7.42 4.98L6 15.598 0 9.423l8.332-1.268L12 .587z"/>
+          </svg>
+        </mj-text>
+              <mj-text font-size="19px" color="gray" font-family="Arial, sans-serif" align="center" font-weight="500">₹31,999 <del>M.R.P: ₹52,990</del> Discount: (40% off)<br /></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--Social Media section ) -->
+    <mj-section background-color="#03172f">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/i/flow/login?redirect_after_login=%2Finfygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://in.linkedin.com/company/infygain-technologies"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+        <mj-divider border-color="#d7b030" border-width="1px" border-style="solid" padding-top="10px" padding-bottom="20px"></mj-divider>
+
+         <!-- Copyright Text -->
+        <mj-text align="center" color="white" font-size="14px" font-family="Arial, sans-serif" padding="0px 0">
+      &copy; 2024 Infygain Technologies. All rights reserved.</mj-text>
+      </mj-section>
+    <mj-body>
+</mjml>

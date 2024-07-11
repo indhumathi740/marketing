@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+  <!-- attributes Section -->
+    <mj-attributes>
+        <mj-font name="Great Vibes" href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" />
+      <mj-text align="center" />
+    </mj-attributes>
+    <!-- style Section -->
+    <mj-style>
+      .header-text { font-size: 28px; font-weight: bold; }
+      .date-text { font-size: 20px; }
+      .sub-header-text { font-size: 18px; }
+      .content-text { font-size: 16px; line-height: 1.5; }
+      .highlight { font-weight: bold; }
+      .divider { border-top: 1px solid #000; margin: 20px 0; }
+
+      .arrow-right {
+        display: inline-block;
+        margin-left: 10px;
+        border: solid black;
+        border-width: 0 3px 3px 0;
+        padding: 3px;
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+  <!-- header Section -->
+    <mj-section background-color="#E6E6FA" >
+      <mj-column>
+       <mj-image width="130px" src="/public/images/infy-logo.svg" alt="Infygain Technologies" />
+       <mj-text font-family="Great Vibes, cursive" font-size="35px" align="center">
+          You're invited !
+        </mj-text>
+        <mj-image src="/public/images/meeting2.png" alt="Pastry and Coffee" width="300px" />
+        <mj-text  font-size="30px" color="#FF5A5F" css-class="sub-header-text">Please join us...</mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- event form Section -->
+ <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+      <mj-text padding="25px" font-size="17px" font-weight="900" align="center" color="black" css-class="content-text"> Infygain Technologies Networking Event </mj-text>
+        <mj-text font-size="15px" line-height="20px" align="left" font-weight="500" color="#333333">Dear [Client's Name],</mj-text>
+        <mj-text font-size="13px" color="#333333" align="justify" line-height="24px">
+          We are delighted to invite you to an exclusive networking event hosted by Infygain Technologies. This event is a unique opportunity for our esteemed clients to connect, share insights, and explore new opportunities in the ever-evolving tech landscape.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+
+  <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text font-size="15px" font-weight="500" color="#333333" align="left">Event Details:</mj-text>
+        <mj-text font-size="13px" line-height="25px" color="#333333" align="justify">
+          <strong >Date:</strong> [Event Date]<br />
+          <strong>Time:</strong> [Event Time]<br />
+          <strong>Venue:</strong> [Event Venue]<br />
+          <strong>Address:</strong> [Venue Address]
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+<mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-text font-size="15px" font-weight="500" color="#333333" align="left">Agenda:</mj-text>
+        <mj-text font-size="16px" color="#333333" align="justify" line-height="30px"> 
+          <strong>Welcome Reception:</strong> Enjoy light refreshments and network with industry peers.<br />
+          <strong>Keynote Speech:</strong> Insights from a leading expert in the tech industry.<br />
+          <strong>Panel Discussion:</strong> Exploring the future of technology and innovation.<br />
+          <strong>Networking Session:</strong> Engage with fellow professionals and explore potential collaborations.<br />
+          <strong>Dinner:</strong> A gourmet dinner to conclude the evening.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-section background-color="#ffffff"  >
+      <mj-column>
+        <mj-button background-color="#FF5A5F"  font-size="15px" color="white" href="https://your-rsvp-link.com"> 
+          RSVP NOW 
+          <span class="arrow-text">→</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+     <mj-section background-color="#E6E6FA" padding="5px">
+      <mj-column>
+        <mj-social font-family="Helvetica" align="center" font-size="15px" icon-size="26px" mode="horizontal" padding="10px 0">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/i/flow/login?redirect_after_login=%2Finfygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://in.linkedin.com/company/infygain-technologies"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+     <mj-section  background-color="#E6E6FA" padding="0px">
+      <mj-column>
+        <mj-text font-size="13px" font-family="Helvetica" color="#555555" align="center" font-weight="500">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, Tamil Nadu 641035
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

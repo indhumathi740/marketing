@@ -1,0 +1,57 @@
+<mjml>
+  <mj-head>
+    <!-- attributes Section -->
+    <mj-attributes>
+      <mj-class name="main-text" font-size="16px" color="#555555" />
+      <mj-class name="highlight" color="#f56b2a" />
+    </mj-attributes>
+  </mj-head>
+  <!--  main content Section -->
+  <mj-body background-color="#fff">
+    <mj-section background-color="rgba(211, 211, 211, 0.3)" padding-bottom="0px">
+      <mj-column>
+        <mj-image width="150px" src="/public/images/infy-logo.svg" alt="Infygain Technologies" />
+        </mj-text>
+        <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="rgba(211, 211, 211, 0.3)" padding="0 30px 30px 30px ">
+      <mj-column background-color="white" border-top="solid 8px orange" padding-bottom="10px">
+        <mj-text css-class="main-text" padding-top="30px">
+          Hi there!
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          You may have accidentally received an email from me regarding our “Unconscious Content Bias” white paper today. Our server had a “whoops” moment this morning, and sent the mailing to <span class="highlight">a few</span> extra people, so please disregard that original email.
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          I’m very sorry for the mixup — I hope you’ll forgive me, and our <em>sleepy</em> servers.
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          For context, the white paper I formerly highlighted provides a deeper look into content consumption habits. If you <span class="highlight">are</span> interested in this research anyways, please follow up with me, and I’ll be sure to send you the white paper as soon as it’s available.
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          If you have any further questions, don’t hesitate to reach out to your dedicated Support team at <a href="mailto:info@infygain.com">info@infygain.com.com</a>, or your helpful Account Manager.
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          I hope you have an awesome day (or night)!
+        </mj-text>
+        <mj-text css-class="main-text" line-height="19px" padding-top="20px">
+          Antonia Faulkner<br />
+          Marketing Director, Outbrain Europe
+        </mj-text>
+        <!--  social media Section -->
+        <mj-social font-family="Helvetica" align="center" font-size="15px" icon-size="20px" mode="horizontal" padding="10px" padding-top="80px">
+          <mj-social-element name="facebook" href="https://www.facebook.com/infygain/"></mj-social-element>
+          <mj-social-element name="twitter" href="https://x.com/i/flow/login?redirect_after_login=%2Finfygain"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://in.linkedin.com/company/infygain-technologies"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/infygain/"></mj-social-element>
+        </mj-social>
+        <mj-text font-size="12px" font-family="Helvetica" color="#556665" align="center" font-weight="500">
+          Hari complex opp.prozone mall, Sathy Rd, Saravanampatti, Coimbatore, TamilNadu 641035
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
